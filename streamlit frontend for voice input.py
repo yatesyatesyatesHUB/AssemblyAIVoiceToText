@@ -48,11 +48,3 @@ if prompt:
 
     st.text_area('Gemini Response:', value=response.text)
     
-
-#but now i've added this new stuff down here ... what will happen now? 
-
-
-#but now also this though!
-
-
-# and now this change made on a branch i created on desktop
